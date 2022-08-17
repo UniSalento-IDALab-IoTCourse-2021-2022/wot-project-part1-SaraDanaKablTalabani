@@ -2,7 +2,9 @@
 wot-project-part1-SaraDanaKablTalabani created by GitHub Classroom
 
 BLE stands for Bluetooth Low Energy and it is different from the traditiional Bluetooth.
-Each one of them has differnet use cases. For our usecase we will deal with BLE.   
+Each one of them has differnet use cases. For our usecase we will deal with BLE.  
+Prefierals can have only one connection at a time.
+
 
 Flutter app
 Set up an editor
