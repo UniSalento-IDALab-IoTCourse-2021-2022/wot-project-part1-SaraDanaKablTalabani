@@ -1,6 +1,9 @@
 # wot-project-part1-SaraDanaKablTalabani
 wot-project-part1-SaraDanaKablTalabani created by GitHub Classroom
 
+BLE stands for Bluetooth Low Energy and it is different from the traditiional Bluetooth.
+Each one of them has differnet use cases. For our usecase we will deal with BLE.   
+
 Flutter app
 Set up an editor
 Used IntelliJ IDEA Ultimate
