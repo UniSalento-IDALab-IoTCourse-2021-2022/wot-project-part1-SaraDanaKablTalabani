@@ -4,6 +4,11 @@ wot-project-part1-SaraDanaKablTalabani created by GitHub Classroom
 BLE stands for Bluetooth Low Energy and it is different from the traditiional Bluetooth.
 Each one of them has differnet use cases. For our usecase we will deal with BLE.  
 Prefierals can have only one connection at a time while centals can be connectec to many prepherials at the same time.
+Requirements for this step:
+1. Andriod device running 4.4 or higher.
+2. Andriod device with Bluetooth 4.4 or higher.
+3. STM32 Discovery as a prepheral device. 
+Note: Here we consider the mobile phone as a central device and the STM32 Discovery as a prepheral device.
 
 
 Flutter app
