@@ -3,7 +3,7 @@ wot-project-part1-SaraDanaKablTalabani created by GitHub Classroom
 
 BLE stands for Bluetooth Low Energy and it is different from the traditiional Bluetooth.
 Each one of them has differnet use cases. For our usecase we will deal with BLE.  
-Prefierals can have only one connection at a time.
+Prefierals can have only one connection at a time while centals can be connectec to many prepherials at the same time.
 
 
 Flutter app
