@@ -2,7 +2,7 @@
 wot-project-part1-SaraDanaKablTalabani created by GitHub Classroom
 
 Step 1:
-First we develop an android application to send the .csv data over BLE. 
+First we develop an android application to send the .csv data over BLE. In the first part of the code we need to let the central device to scan for the prepheral devices.
 BLE stands for Bluetooth Low Energy and it is different from the traditiional Bluetooth.
 Each one of them has differnet use cases. For our usecase we will deal with BLE.  
 Prefierals can have only one connection at a time while centals can be connectec to many prepherials at the same time.
@@ -24,6 +24,7 @@ For Windwos:
 
 
 References:
+
 https://youtu.be/bHc-e0lW76E?list=PLFiLQ00mrKN2H_RtrY5Ady_tCL2KD0Bq-
 https://github.com/Embetronicx/STM32-Bootloader/blob/ETX_Bootloader_4.0/Bootloader_Example/HostApp/MobileApp/flashy/build/app/outputs/apk/release/Flashy.apk
 https://github.com/Embetronicx/STM32-Bootloader/blob/ETX_Bootloader_4.0/Bootloader_Example/HostApp/MobileApp/flashy/build/app/outputs/apk/release/app-release.apk
