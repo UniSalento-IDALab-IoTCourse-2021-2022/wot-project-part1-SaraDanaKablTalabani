@@ -5,6 +5,10 @@ Step 1:
 First we develop an android application to send the .csv data over BLE. In the first part of the code we need to let the central device to scan for the prepheral devices.
 BLE stands for Bluetooth Low Energy and it is different from the traditiional Bluetooth.
 Each one of them has differnet use cases. For our usecase we will deal with BLE.  
+We are simulating the following scenario:
+![image](https://user-images.githubusercontent.com/101463904/191498243-cbb6965a-1f27-4078-8655-1567fca85a50.png)
+
+
 Prefierals can have only one connection at a time while centals can be connectec to many prepherials at the same time.
 Requirements for this step:
 1. Andriod device running 4.4 or higher.
